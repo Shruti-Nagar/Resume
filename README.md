@@ -1,3 +1,3 @@
 # Resume
-[Click here for Resume](https://github.com/Shruti-Nagar/pictures/blob/main/Resume/ShrutiNagar_Resume.pdf)
-![Resume](https://github.com/Shruti-Nagar/pictures/blob/main/Resume/ShrutiNagar_Resume.pdf)
+[Resume Download](https://github.com/Shruti-Nagar/pictures/blob/main/Resume/ShrutiNagar_Resume.pdf)
+![Resume](https://github.com/Shruti-Nagar/pictures/blob/main/Resume/Resume%20SS.jpg)
